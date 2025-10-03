@@ -21,7 +21,7 @@ print("your age is: " + str(age)) #str() to convert integer to string this is ty
 height= 340.33
 print("your height is:" + str(height))
             ##Bollean only True or False
-human =False
+human =True
 print(human)
 
 
