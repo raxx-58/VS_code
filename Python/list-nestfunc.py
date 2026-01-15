@@ -99,6 +99,9 @@ print(utensils.difference(dishes)) #to find what utensils has that dishes doesno
 
             #19 dictionaries - it is unordered, changeable collection of unique key:value pairs
 #Fast beacuse they use hashing, allow us to access a value quickly
-
+country= {'India':'ND', 'USA':'DC', 'china': 'beging'}
+#india is key ND is value
+print(country['USA']) #DC
+ 
 
 
